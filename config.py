@@ -35,17 +35,17 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/Theferid/The_ferid",
+    "https://github.com/Ferid18/Venoms",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/FerooResmi")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/GunelSupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Truckresmi")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Trucksupport")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
-AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", False))
+AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
 AUTO_SUGGESTION_MODE = getenv("AUTO_SUGGESTION_MODE", False)
 AUTO_SUGGESTION_TIME = int(
     getenv("AUTO_SUGGESTION_TIME", "500"))
@@ -66,7 +66,7 @@ TG_VIDEO_FILESIZE_LIMIT = int(getenv("TG_VIDEO_FILESIZE_LIMIT", 1073741824))
 
 
 # Get your pyrogram v2 session from @Venom_string_robot on Telegram
-STRING1 = getenv("STRING_SESSION", "AgGz374AgxfrPwlMkuR9S4eM_xpCwqqKBPPvqlaz2kabXvOLfQd6IMqwBKuNvh-IX4210BnCjdYEMDLoicM4K9-1sshxkBDV1pPmHYAREHhlc1W2Nn4hbuAJ6Iyehlui_UrfqNQ-diGllC_vdsRjf_t91GIRV01xankc6_17JBTYrwj3a6V9-NJYJuaU6GkzajXRsthayWNK34_lGsQg1we-2Ij9_xFhONP1YKcySlIC4r7DhQw6Xqs5Q_sodDC8AXqQmT9kRQF5jzw-0s4L1er-2lJ1LeTFwBmdxEPicbsR1rVCywnzTC8B54UOl1Uno2GwdozJlI78BRZXOA7x5aUnq4h4ywAAAAFPGm-xAA")
+STRING1 = getenv("STRING_SESSION", "AgE7aHwAdQ3D6JtDLnTaNnqx0-nxtlvjZ6t_8MtkX1oJ8hZQ6ttEnHpUSNo0dQJDFHT-OQXDOx09hMOm9X9-_mKbGjbmyGQupz-xuGiTGNLDhsw5kwjVo1F-ivWavlPJq3T4e-VIgyt7y_weDFFPgCOM_mOCvLAQdlTGjeAy-MvDBUhxyjQtaU6ueietrqV34Cd260Vd_YPMqd7o-MKZk5Dbwvf7-tLqqtCsL6vNi8j_wQhNs6fv32tjQ0Ayik93uu9vVJlrXI6PNthPkIT9wsrW6XoWDJWm0kFymGtiHsMl-8OI9ucizP3mJHJ63uHD5LQw0aVvUIfvUv8AU6UKrdz0gvZWpAAAAAFr3-D8AA")
 STRING2 = getenv("STRING_SESSION2", None)
 STRING3 = getenv("STRING_SESSION3", None)
 STRING4 = getenv("STRING_SESSION4", None)
