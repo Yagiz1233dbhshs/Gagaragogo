@@ -1,7 +1,7 @@
-name : 🇦🇿 Azərbaycan
+name : 🇹🇷 Türkçe 
 
 
-general_1 : "» İstifadəçinin mesajına cavab verin və ya istifadəçi adını/id-sini verin"
+general_1 : "» Kullanıcının mesajını yanıtlayın veya kullanıcı adını/kimliğini sağlayın"
 general_2 : "» Sorğunuzu icra etmə zamanı bir şeylər səhv gedir.\n\nİstisna : <code>{0}</code>"
 general_3 : "Siz bu çatda anonim adminisiniz, Məndən istifadə üçün istifadəçi hesabına qayıdın."
 general_4 : "» Sizdə Səsli söhbəti idarə etmək üçün icazələr yoxdur.\n\nAdmin keşini /reload vasitəsilə yenidən yükləyin"
