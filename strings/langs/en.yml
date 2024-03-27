@@ -8,7 +8,7 @@ general_4 : "» Sesli sohbeti yönetme izniniz yok.\n\nYönetici önbelleğini /
 general_5 : "» Bot Sesli Sohbette yayınlandığı için."
 
 tg_1 : "<u><b>{0} YÜKLENDİ</b></u>\n\n<b>Fayl ölçüsü:</b> {1}\n<b>Tamamlanan :</b> {2}\n<b>Yüz faiz:</b> {3}%\n\n<b>Sürət :</b> {4}/s\n<b>ETA:</b> {5}"
-tg_2 : "BAŞARIYLA YÜKLENDİ, Fayl İşlənir...\n\n<b>Keçirilmiş vaxt:</b> {0}"
+tg_2 : "BAŞARIYLA YÜKLENDİ, Dosya İşleme...\n\n<b>Keçirilmiş vaxt:</b> {0}"
 tg_3 : "Telegramdan media yükləmək mümkün olmadı, xahiş edirik bir daha cəhd edin..."
 tg_4 : "» Yükləmə artıq tamamlandı."
 tg_5 : "» Yükləmə artıq tamamlandı və ya ləğv edildi."
