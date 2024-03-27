@@ -86,7 +86,7 @@ admin_40 : "Səsverilmə uğurla yerinə yetirildi."
 
 start_1 : "{0} yaşlı, Kardeşim!\n\n<b>✫ Faaliyet süresi:</b> {1}"
 start_2 : "<b>🙋🏻‍♀️Selam {0}</b>\n<b>👀Benim adım {1}</b>\n<b> EFSUNKAR AİLESİ 🇹🇷</b>\n<b>💁🏻‍♀️Beni grubunuza ekleyerek</b>\n<b>Beni grubunuza ekleyerek sesli sohbetlerde rahatça</b>\n<b>Donmadan müzik dinleyebilirsiniz.</b>\n\n<b>Sahibim : @Yagizzwq</b>"
-start_3 : "{0} Salam 🙋🏻‍♀️\nMəni {2} qrupuna əlavə etdiyiniz üçün təşəkkür edirəm. ❤️\n\n{3} Xidmətinizdədir. 👸🏻"
+start_3 : "{0} Selam 🙋🏻‍♀️\nBeni {2} Grubunuza eklediğiniz için teşekkür ederim. ❤️\n\n{3} Hizmetinizdedir. 👸🏻"
 start_4 : "<b>Bir süper gruba ihtiyaç var</b>\n\n Lütfen grubunuzu <b>Süper gruba</b>-a dönüştür ve sonra beni tekrar ekle.\n\n<b>Süper grup nasıl yapılır?</b>\n- Grubunuzun sohbet geçmişi <b>görünür</b> edin."
 start_5 : "<b>↝ Kara listeye alınmış çatlak ↜</b>\n\nBu çat {0} veritabanında kara listeye alındı.\nSizə <a href={1}>sudo kullanıcı</a> gönderildi veya <a href={2}>sohbeti desteklemek için</a> gidin."
 start_6 : "💝 <b>İzleme bilgileri</b> 💝\n\n📌 <b>Ad:</b> {0}\n\n⏳ <b>Süre:</b> {1} dakika\n👀 <b+Görüntüleme:</b> <code>{2}</code>\n⏰ <b>Yayımlandı:</b> {3}\n📎 <b>Kanal:</b> <a href={4}>{5}</a>\n\n<u><b> {6} tərəfindən gücləndirilmiş axtarış</b></u>"
