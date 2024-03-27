@@ -7,25 +7,24 @@ from pyrogram import filters
 load_dotenv()
 
 # Get this value from my.telegram.org/apps
-API_ID = int(getenv("API_ID", "22341875"))
-API_HASH = getenv("API_HASH", "b13c2392d55ae8a4800d3b4ed40bffb2")
+API_ID = int(getenv("API_ID", "23471546"))
+API_HASH = getenv("API_HASH", "23910ff5097ae15c3fdb6c7cd70e1a29")
 
 # Get your token from @BotFather on Telegram.
-BOT_TOKEN = getenv("BOT_TOKEN", "6734332445:AAEjBYo8Z6ffZ7bMPpzYxi2pUVxxaI99gQc")
+BOT_TOKEN = getenv("BOT_TOKEN", "7039071910:AAFHC34AltonvmhirMxg3T4LNeneRZy7cdI")
 
 # Get your mongo url from cloud.mongodb.com
-MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://qeribovferid19:Anon19@cluster0.lyobaza.mongodb.net/?retryWrites=true&w=majority")
-
+MONGO_DB_URI = getenv("MONGO_DB_URI", "mongodb+srv://yunusgmd1:cenap213344@cluster0.srupnsy.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
 DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 5400))
 
 SONG_DOWNLOAD_DURATION = int(
     getenv("SONG_DOWNLOAD_DURATION_LIMIT", "5400")
 )
 # Chat id of a group for logging bot's activities
-LOGGER_ID = int(getenv("LOGGER_ID", "-1001913460066"))
+LOGGER_ID = int(getenv("LOGGER_ID", "-1002020615231"))
 
 # Get this value from @Hot_Girl_Robot on Telegram by /id
-OWNER_ID = int(getenv("OWNER_ID", "5898049921"))
+OWNER_ID = int(getenv("OWNER_ID", "6786458787"))
 
 ## Fill these variables if you're deploying on heroku.
 # Your heroku app name
@@ -41,8 +40,8 @@ UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
     "GIT_TOKEN", None)  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/Truckresmi")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Trucksupport")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/EfsunkarBots")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/Efsunkarr")
 
 # Set this to True if you want the assistant to automatically leave chats after an interval
 AUTO_LEAVING_ASSISTANT = bool(getenv("AUTO_LEAVING_ASSISTANT", True))
