@@ -1,3 +1,42 @@
+gban_1 : "» Neden kendini yasaklamak istedin bebeğim?"
+gban_2 : "» Neden kendimi yasaklayayım ki?"
+gban_3 : "» Sudo kullanıcılarımı yasaklayamazsın."
+gban_4 : "» {0} zaten bot tarafından global olarak yasaklanmış durumda."
+gban_5 : "» Global yasak başlatılıyor {0}.\n\n<b>Beklenen süre:</b> {1}"
+gban_6 : "<b><u>Yeni global yasak {0}:</u></b>\n\n<b>Kaynak:</b> {1} [<code>{2}</code>]\n<b>Kullanıcı:</b> {3}\n<b>Kullanıcı ID:</b> {4}\n\n<b>Tarafından yasaklanan:</b> {5}\n<b>Sohbetler:</b> </code>{6}</code>"
+gban_7 : "» {0} bot tarafından global olarak yasaklanmamış durumda."
+gban_8 : "» {0} kullanıcısının global yasağını kaldırma.\n\n<b>Beklenen süre:</b> {1}"
+gban_9 : "» {0} kullanıcısının global yasağı kaldırıldı.\n\n{1} sohbette yasak kaldırıldı."
+gban_10 : "» Hiç kimse bot tarafından global olarak yasaklanmamış durumda."
+gban_11 : "» Yasaklanan kullanıcılar listesi getiriliyor..."
+gban_12 : "🙂 <b>Global olarak yasaklanan kullanıcılar:</b>\n\n"
+
+#Şarkı
+SG_B_1 : "• Buraya tıkla •"
+SG_B_2 : "🎧 Ses 🎧"
+SG_B_3 : "🎥 Video 🎥"
+
+# Şarkı
+song_1 : "YouTube'dan yalnızca özel sohbetlerde müzik veya video indirebilirsiniz. Lütfen özel sohbette beni başlatın."
+song_2 : "**Kullanım:**\n\n/song [Müzik Adı] veya [YouTube Linki]"
+song_3 : "Canlı bağlantı algılandı. Canlı YouTube videolarını indiremem."
+song_4 : "📌**Başlık**:- {0}\n\nİndirmek istediğiniz türü seçin."
+song_5 : "Geçersiz bir YouTube bağlantısı."
+song_6 : "Biçimler alınıyor...\n\nLütfen bekleyin..."
+song_7 : "Video için uygun biçimler alınamadı. Lütfen başka bir şarkı deneyin."
+song_8 : "İndirme başladı\n\nLütfen birkaç saniye bekleyin..."
+song_9 : "YT-DL'den şarkı indirilemedi\n\n**Neden:** {0}"
+song_10 : "Telegram sunucularına yüklenemedi."
+song_11 : "Yükleme başladı\n\nLütfen bekleyin..."
+
+#Şarkı Sözleri
+lyrics_1 : "**Kullanım:**\n\n/lyrics [Müzik Adı]"
+lyrics_2 : "Sözler aranıyor..."
+lyrics_3 : "❌ Sözler alınamadı 😭.\n\n💡**Denenmiş Arama:** {0}"
+lyrics_4 : "Aşağıdaki düğmeye tıklayın ve uzun spam türleri sözlerden kaçınmak için aranan sözleri alın."
+
+#Sözler
+L_B_1 : "🚀 Şimdi sözleri kontrol et"
 ✅ **Müzik Çalma İpuçları**
 
 sug_1 : "Müziği iki **arama modunda** çalabilirsiniz, yani Doğrudan Mod ve İçerik Modu.\n\nModları /playmode ile değiştirin"
