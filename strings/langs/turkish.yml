@@ -162,7 +162,7 @@ play_22 = "Lütfen grup içindeki sorguları oynatmak istediğiniz modu seçin: 
 
 str_1 = "Lütfen m3u8 veya index bağlantıları sağlayın."
 str_2 = "➻ Geçerli akış doğrulandı.\n\nİşleniyor..."
-str_3 = "YouTube canlı yayını akışı alınamadı, canlı format bulunamadı."
+str_3 : "YouTube canlı akışı başlatılamadı, canlı format bulunamadı."
 
 ping_1 = "{0} pingleniyor..."
 ping_2 = "🏓 Pong: <code>{0}ms</code>\n\n<b><u>{1} sistem istatistikleri :</u></b>\n\n↬ Uptime: {2}\n↬ RAM: {3}\n↬ CPU: {4}\n↬ Disk: {5}\n↬ Py-TgCalls: <code>{6}ms</code>"
