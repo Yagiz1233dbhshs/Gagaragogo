@@ -7,7 +7,6 @@ genel_3 : "Bu sohbette anonim bir yöneticisiniz, kullanıcı hesabına dönmek 
 genel_4 : "» Video sohbetlerini yönetme izniniz yok.\n\nYönetici önbelleğini yeniden yükleyin: /yeniden_yükle"
 genel_5 : "» Bot, video sohbetinde yayın yapmıyor."
 
-pn :</b> {0}"
 tg_3 : "Telegram'dan medya indirilemedi, lütfen tekrar deneyin..."
 tg_4 : "» İndirme zaten tamamlandı."
 tg_5 : "» İndirme zaten tamamlandı veya iptal edildi."
@@ -43,7 +42,7 @@ reload_1 : "» Sadece 3 dakikada bir yönetici önbelleğini yenileyebilirsiniz.
 reload_2 : "» Yönetici önbelleği başarıyla yenilendi."
 reload_3 : "» Yönetici önbelleği yenilenemedi, botun sohbetinizde yönetici olduğundan emin olun."
 reload_4 : "» Lütfen bekleyin...\n\n{0} yeniden başlatılıyor."
-reload_5 : "Başarıyla {0} yeniden başlatıldı.\n\nTekrar oynatmaya başlama..."
+reload_5 : "»Başarıyla {0} yeniden başlatıldı.\n\nTekrar oynatmaya başlama..."
 
 
 admin_1 = "» Akışı devam ettirdiğini hatırlıyor musun?"
