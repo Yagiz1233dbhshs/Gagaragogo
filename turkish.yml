@@ -7,7 +7,6 @@ genel_3 : "Bu sohbette anonim bir yöneticisiniz, kullanıcı hesabına dönmek 
 genel_4 : "» Video sohbetlerini yönetme izniniz yok.\n\nYönetici önbelleğini yeniden yükleyin: /yeniden_yükle"
 genel_5 : "» Bot, video sohbetinde yayın yapmıyor."
 
-pn :</b> {0}"
 tg_3 : "Telegram'dan medya indirilemedi, lütfen tekrar deneyin..."
 tg_4 : "» İndirme zaten tamamlandı."
 tg_5 : "» İndirme zaten tamamlandı veya iptal edildi."
