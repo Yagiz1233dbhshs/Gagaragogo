@@ -12,7 +12,7 @@ motor
 numpy
 pillow
 psutil
-py-tgcalls==23.1.2
+py-tgcalls==23.0.1
 pykeyboard
 pyrogram==2.0.106
 python-dotenv
